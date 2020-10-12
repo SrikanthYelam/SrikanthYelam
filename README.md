@@ -11,4 +11,4 @@ Skill set :
 - Web Development : HTML5, CSS3, TypeScript/JavaScript, JQuery, Angular 5
 - .NET Technologies : .NET Framework & Core, ASP.NET, ADO.NET
 - Database Technologies : MS SQL Server (Advanced SQL, Transact-SQL), Oracle 11g
-- Others : ELK Stack, Azure Functions, Logic Apps, Event Grid, Swagger UI
+- Others : ELK Stack, Azure Cloud Services(Azure Functions, Logic Apps, Event Grid etc.), Swagger UI
