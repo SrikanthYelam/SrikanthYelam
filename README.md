@@ -2,7 +2,7 @@
 
 I'm Srikanth Yelam.
 
-- Software Engineer at GEP Worldwide.
+- Senior Software Engineer at GEP Worldwide.
 - Master's in MIS from SUNY Buffalo.
 - Around 7 years of experience working with C#.NET Technologies.
 
